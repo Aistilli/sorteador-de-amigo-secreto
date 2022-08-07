@@ -28,6 +28,12 @@ Aula 4:
 - Refatoramos código para facilitar a escrita de testes;
 - Escrevemos html acessível utilizando o conceito de roles.
 
+Aula 5:
+
+- Subimos o projeto para o github;
+- Configuramos a publicação na Vercel;
+- Rodamos os testes para não publicar versões com testes falhando.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
