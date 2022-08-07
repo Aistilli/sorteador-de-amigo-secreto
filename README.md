@@ -14,6 +14,20 @@ Aula 2:
 - Executamos código assíncrono com o setTimeout;
 - Lidamos com temporizadores nos testes com Jest.
 
+Aula 3:
+
+- Preparamos o mock de um hook customizado;
+- Validamos se métodos são chamados pelo componente testado;
+- Lidamos com a navegação do react router dom durante os testes;
+- Realizamos testes de snapshot.
+
+Aula 4:
+
+- Buscamos elementos <option> pela role;
+- Testamos se o fluxo da aplicação está sendo executado como o esperado;
+- Refatoramos código para facilitar a escrita de testes;
+- Escrevemos html acessível utilizando o conceito de roles.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
